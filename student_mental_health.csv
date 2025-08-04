@@ -1,0 +1,11 @@
+sleep_hours,study_hours,stress_level,screen_time,physical_activity,appetite_level,social_level,rested,relaxed,mental_health_risk
+7,3,4,6,30,4,6,Yes,Yes,Low Risk
+5,4,7,9,10,3,2,No,No,High Risk
+6,5,5,8,20,3,4,No,Yes,Moderate Risk
+8,2,2,4,60,5,8,Yes,Yes,Low Risk
+4,6,9,11,5,2,1,No,No,High Risk
+6,4,6,7,15,3,3,No,No,Moderate Risk
+3,7,8,10,0,1,0,No,No,High Risk
+9,1,1,3,90,5,9,Yes,Yes,Low Risk
+5,5,7,9,10,3,2,No,No,High Risk
+7,3,3,5,25,4,6,Yes,Yes,Low Risk
